@@ -1,19 +1,19 @@
 ---
-whatWeDo: What We Do
+whatWeDo: Computational Biology, Ecology, & Evolution Study Group
 events: Events
 contact: Contact
 tellMeMore: Tell Me More
 
-activitiesSubheading: 'And you can, too!'
+activitiesSubheading: 'ComBEE is a group of researchers at UW-Madison interested in computational biology in ecology and evolution.'
 activities:
   - title: Skill Sharing
-    description: 'Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.</p>'
+    description: 'Share your favorite coding skills and tools with your friends and colleagues.</p>'
     icon: fa-comment
   - title: Co-Working
     description: 'Get together to work on your coding projects, help each other out and share your work.'
     icon: fa-laptop
   - title: Community Building
-    description: 'Meet new people in your field, organization or community - and find out what we can do when we work together.'
+    description: 'Meet new people in your field, organization or community.'
     icon: fa-group
 
 events: Events
