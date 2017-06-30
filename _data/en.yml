@@ -16,10 +16,6 @@ activities:
     icon: fa-group
 
 
-eventsSubheading: Our upcoming and recent events
-eventPlaceholder: Nothing yet! Propose an event here.
-pastEvents: See Our Past Events
-
 calendar: Subscribe to our events calendar!
 calendarSubheading: 'We also invite you to follow <a href="%CALENDAR_EMBED_URL%" target="_blank">our calendar</a>, where events will be posted.'
 googleCalendar: 'If you use Google calendar, you can add our calendar by pressing the "Google Calendar" button at the bottom-right of <a href="%CALENDAR_EMBED_URL%" target="_blank">this page</a>.'
