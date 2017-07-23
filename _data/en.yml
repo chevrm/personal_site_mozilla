@@ -13,7 +13,7 @@ google: Google Scholar
 activitiesSubheading: 'Microbial Evolution and Genomics in the Search for New Drugs.'
 activities:
   - title: Secondary Metabolism & Biosynthesis
-    description: 'How do microbes interact with their biotic environments? What are the genes involved? How have these genes evolved to function in their natural systems?</p>'
+    description: 'How do microbes use chemistry to interact with other organisms? What are the genes involved? How have these genes evolved to function in their natural systems?</p>'
     icon: fa-flask
   - title: Computational Biology
     description: 'How do we build large-scale computational frameworks for uncovering microbial chemical diversity?'
