@@ -1,11 +1,15 @@
 ---
-whatWeDo: Computational Biology, Ecology, & Evolution 
+whatWeDo: Mining Chemical Diversity 
 contact: Contact
 tellMeMore: Tell Me More
-rsg: R Study Group
-psg: Python Study Group
+twitter:
+linkedin:
+cv:
+github:
+bitbucket:
+google:
 
-activitiesSubheading: 'ComBEE is a group of researchers at UW-Madison interested in computational biology in ecology and evolution.'
+activitiesSubheading: 'Microbial Evolution and Genomics in the Search for New Drugs.'
 activities:
   - title: Skill Sharing
     description: 'Share your favorite coding skills and tools with your friends and colleagues.</p>'
@@ -17,15 +21,6 @@ activities:
     description: 'Meet new people in your field, organization or community.'
     icon: fa-group
 
-
-calendar: Subscribe to our events calendar!
-calendarSubheading: 'We also invite you to follow <a href="%CALENDAR_EMBED_URL%" target="_blank">our calendar</a>, where events will be posted.'
-googleCalendar: 'If you use Google calendar, you can add our calendar by pressing the "Google Calendar" button at the bottom-right of <a href="%CALENDAR_EMBED_URL%" target="_blank">this page</a>.'
-iCal: 'If you use another calendar app, you can copy and paste <a href="%CALENDAR_ICAL_URL%">this address</a> into any calendar product that supports the iCal format.'
-
 sayHi: Contact Us
 contactSubheading: 'Join our listserv to get notifications about R and Python Study Groups and ComBEE Events!'
 contact: Join our Listserv
-
-
-codeOfConduct: Study Group Code of Conduct
