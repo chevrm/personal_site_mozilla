@@ -1,7 +1,5 @@
 ---
 whatWeDo: Mining Chemical Diversity
-research: Research
-links: Links
 tellMeMore: Tell Me More
 twitter: Twitter
 linkedin: LinkedIn
@@ -21,6 +19,10 @@ activities:
   - title: Drug Discovery
     description: 'Can we leverage evolutionary principles to uncover novel antibiotics, cancer therapeutics, and other drugs?'
     icon: fa-medkit
+
+research: Research
+
+links: Friends & Resources
 
 sayHi: Contact Me
 contactSubheading: 'You can find me reliably on twitter @wildtypeMC. Do not be shy! Otherwise, feel free to contact me at chevrm (at) gmail (dot) com!'

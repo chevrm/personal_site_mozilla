@@ -21,6 +21,7 @@ language: en
 titleBackground: img/blank_bg.png
 headlineSmall: "Secondary Metabolism, Microbial Genetics, Computational Biology, & Evolution"
 headlineMain: 
+avatar: 
 
 # Setup Google Calendar
 # Usage:
