@@ -18,7 +18,7 @@ language: en
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: img/marine_drugs_background_filt.png
+titleBackground: img/blank_bg.png
 headlineSmall: "Secondary Metabolism, Microbial Genetics, Computational Biology, & Evolution"
 headlineMain: 
 
