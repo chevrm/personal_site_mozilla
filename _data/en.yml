@@ -12,9 +12,9 @@ google: Google Scholar
 
 activitiesSubheading: 'Microbial Evolution and Genomics in the Search for New Drugs.'
 activities:
-  - title: Skill Sharing
-    description: 'Share your favorite coding skills and tools with your friends and colleagues.</p>'
-    icon: fa-comment
+  - title: Secondary Metabolism & Biosynthesis
+    description: 'How do microbes interact with their biotic environments? What are the genes involved? How have these genes evolved function in natural systems? Can we use these principles to drive drug discovery?</p>'
+    icon: fa-flask
   - title: Co-Working
     description: 'Get together to work on your coding projects, help each other out and share your work.'
     icon: fa-laptop
