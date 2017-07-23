@@ -13,14 +13,14 @@ google: Google Scholar
 activitiesSubheading: 'Microbial Evolution and Genomics in the Search for New Drugs.'
 activities:
   - title: Secondary Metabolism & Biosynthesis
-    description: 'How do microbes interact with their biotic environments? What are the genes involved? How have these genes evolved function in natural systems? Can we use these principles to drive drug discovery?</p>'
+    description: 'How do microbes interact with their biotic environments? What are the genes involved? How have these genes evolved to function in their natural systems?</p>'
     icon: fa-flask
-  - title: Co-Working
-    description: 'Get together to work on your coding projects, help each other out and share your work.'
+  - title: Computational Biology
+    description: 'How do we build large-scale computational frameworks for uncovering microbial chemical diversity?'
     icon: fa-laptop
-  - title: Community Building
-    description: 'Meet new people in your field, organization or community.'
-    icon: fa-group
+  - title: Drug Discovery
+    description: 'Can we leverage evolutionary principles to uncover novel antibiotics, cancer therapeutics, and other drugs?'
+    icon: fa-medkit
 
 sayHi: Contact Me
 contactSubheading: 'You can find me reliably on twitter @wildtypeMC. Do not be shy! Otherwise, feel free to contact me at chevrm (at) gmail (dot) com!'
