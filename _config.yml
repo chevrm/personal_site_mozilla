@@ -3,7 +3,7 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: Marc G Chevrette
+#title: Marc G Chevrette
 description: "Secondary Metabolism, Microbial Genetics, Computational Biology, & Evolution"
 language: en
 
@@ -20,8 +20,8 @@ language: en
 
 titleBackground: img/blank_bg.png
 headlineSmall: "Secondary Metabolism, Microbial Genetics, Computational Biology, & Evolution"
-headlineMain: 
-avatar: 
+headlineMain:
+avatar: "img/logos/mc_logo.png"
 
 # Setup Google Calendar
 # Usage:
